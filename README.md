@@ -2,8 +2,8 @@
 
 To run the assignment, clone the repository into your system, then run  the following commands on your terminal/command prompt window:
 
--> cd Week3Assignment
--> pip install -r requirements.txt
+-> cd Week3Assignment                                                                                                         
+-> pip install -r requirements.txt                                                                                             
 -> jupyter notebook
 
 
